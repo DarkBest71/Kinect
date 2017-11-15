@@ -1,0 +1,10 @@
+{
+  "modules" : { 
+    "Kinect" : {
+      "description": "Prendre une photo avec la Kinect",
+      "version": "3.16",
+	  "Auteur": "Avatar Rousseau (Dark Best)",
+	  "Categorie": "Speech"
+    }
+  }
+}

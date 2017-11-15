@@ -1,0 +1,1 @@
+cmd /c start %CD%/plugins/Kinect/url/Kinect.url
